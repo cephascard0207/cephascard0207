@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cephas cardozo
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web & App Development
 - 📫 Reach me at cephascardozo0207@gmail.com
 
 <!---
