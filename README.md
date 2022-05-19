@@ -9,6 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cephascardozo&show_icons=true&theme=dark)](https://github.com/cephascardozo/github-readme-stats)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=cephascardozo/Your_GitHub_Repository_Name)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
