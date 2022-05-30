@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cephas cardozo
 - 👀 I’m interested in Software Development
 - 📫 Reach me at cephascardozo0207@gmail.com
-- 🌱 I’m currently learning about Crypto , Python development
+- 🌱 I’m currently learning about Crypto , Python development, Music Production.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=cephascardozo)
 
