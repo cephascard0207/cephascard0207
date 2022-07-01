@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Cephas cardozo
+- 👋 Hi, I’m Solomon0207
 - 👀 I’m interested in Software Development
-- 📫 Reach me at cephascardozo0207@gmail.com
+- 📫 Reach me at <!--cephascardozo0207@gmail.com-->jk🤣
 - 🌱 I’m currently learning about Crypto , Python development, Music Production.
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=cephascardozo)
