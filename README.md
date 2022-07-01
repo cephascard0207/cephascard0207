@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Solomon0207
+- 👋 Hi, I’m Cephas Cardozo
 - 👀 I’m interested in Software Development
 - 📫 Reach me at <!--cephascardozo0207@gmail.com-->jk🤣
 - 🌱 I’m currently learning about Crypto , Python development, Music Production.
