@@ -2,8 +2,8 @@
 
 
 - I'm *Cephas Cardozo* ! :smiley: <br>
-- I'm Developer:wink: <br>
-- If you like my projects, please stars 🌟🙏 <br>
+- I'm a Python Developer, Entrepreneur and still upskilling myself!:wink: <br>
+- If you like my projects, please star! 🌟🙏 <br>
 - Feel Free For Asking Questions :kissing_heart: <br>
 - You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
