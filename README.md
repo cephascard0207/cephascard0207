@@ -2,7 +2,7 @@
 
 
 - I'm *Cephas Cardozo* ! :smiley: <br>
-- I'm a Web Designer, Beginner Python Developer, Entrepreneur and still upskilling myself!:wink: <br>
+- I'm a Web Designer, Python Programmer, Entrepreneur and still upskilling myself!:wink: <br>
 - If you like my projects, please star! 🌟🙏 <br>
 - Feel Free For Asking Questions :kissing_heart: <br>
 - You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
