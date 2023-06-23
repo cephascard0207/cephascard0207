@@ -26,8 +26,5 @@
 
 [![Cephas's Streak](http://github-readme-streak-stats.herokuapp.com?user=cephascard0207&theme=radical&fire=yellow&currStreakNum=yellow)](https://github.com/cephascard0207)
 
-<br>
-  <img src="[https://github.com/cephascard0207/My_Certificates_2021-22/blob/master/FrontEndDev-HTMLgllearning.pdf](https://github.com/cephascard0207/My_Certificates_2021-22/blob/master/Certificate%20Photography%201.png?raw=true)https://github.com/cephascard0207/My_Certificates_2021-22/blob/master/Certificate%20Photography%201.png?raw=true" name="image-name">
-
 
 
