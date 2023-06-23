@@ -29,7 +29,7 @@
 <br>
 <details>
   <summary>The title of the image group</summary><details>
-  <img src="https://github.com/cephascard0207/My_Certificates_2021-22/blob/master/FrontEndDev-HTMLgllearning.pdf" name="image-name">
+  <img src="[https://github.com/cephascard0207/My_Certificates_2021-22/blob/master/FrontEndDev-HTMLgllearning.pdf](https://github.com/cephascard0207/My_Certificates_2021-22/blob/master/Certificate%20Photography%201.png?raw=true)https://github.com/cephascard0207/My_Certificates_2021-22/blob/master/Certificate%20Photography%201.png?raw=true" name="image-name">
   <img src="" name="image-name">
   <img src="image-url" name="image-name">
 </details>
