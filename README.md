@@ -29,8 +29,8 @@
 <br>
 <details>
   <summary>The title of the image group</summary><details>
-  <img src="image-url" name="image-name">
-  <img src="image-url" name="image-name">
+  <img src="https://github.com/cephascard0207/My_Certificates_2021-22/blob/master/FrontEndDev-HTMLgllearning.pdf" name="image-name">
+  <img src="" name="image-name">
   <img src="image-url" name="image-name">
 </details>
 
