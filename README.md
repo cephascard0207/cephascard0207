@@ -26,4 +26,12 @@
 
 [![Cephas's Streak](http://github-readme-streak-stats.herokuapp.com?user=cephascard0207&theme=radical&fire=yellow&currStreakNum=yellow)](https://github.com/cephascard0207)
 
+<br>
+<details>
+  <summary>The title of the image group</summary><details>
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+  <img src="image-url" name="image-name">
+</details>
+
 
