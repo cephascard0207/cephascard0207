@@ -5,9 +5,6 @@
 - I'm a Web Designer, Python Programmer, Entrepreneur and still upskilling myself!:wink: <br>
 - If you like my projects, please star! 🌟🙏 <br>
 - Feel Free For Asking Questions :kissing_heart: <br>
-- You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
-
-**Gmail: cephascardozo0207@gmail.com**
 
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%23e34f26.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
