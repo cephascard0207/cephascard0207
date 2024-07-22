@@ -2,7 +2,7 @@
 
 
 - I'm *Cephas Cardozo* ! :smiley: <br>
-- Founder @UElevate | Aspiring Entrepreneur | Digital Marketer • Web Designer • Computer Programmar | Learning Community Development & Business Innovation:wink: <br>
+- Founder @UElevate | Aspiring Entrepreneur | Digital Marketer • Web Designer • Computer Programmer | Learning Community Development & Business Innovation:wink: <br>
 
 - If you like my projects, please star! 🌟🙏 <br>
 - Feel Free For Asking Questions :kissing_heart: <br>
