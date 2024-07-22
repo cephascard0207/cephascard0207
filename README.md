@@ -2,7 +2,8 @@
 
 
 - I'm *Cephas Cardozo* ! :smiley: <br>
-- I'm a Web Designer, Python Programmer, Entrepreneur and still upskilling myself!:wink: <br>
+- Founder @UElevate | Aspiring Entrepreneur | Digital Marketer • Web Designer • Computer Programmar | Learning Community Development & Business Innovation:wink: <br>
+
 - If you like my projects, please star! 🌟🙏 <br>
 - Feel Free For Asking Questions :kissing_heart: <br>
 
@@ -15,8 +16,6 @@
 
 
 <br>
-
-"On the Grind"
 
 ![Cephas's GitHub stats](https://jolibois-readme-stats.vercel.app/api?username=cephascard0207&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
