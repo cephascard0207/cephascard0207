@@ -1,3 +1,4 @@
+<body style="background-color:white; color:white;">
 <h1 align='center'> Hi there 👋, I'm Cephas Cardozo 👨‍💻</h1>
 
 
@@ -39,5 +40,5 @@
 
 [![Cephas's Streak](http://github-readme-streak-stats.herokuapp.com?user=cephascard0207&theme=radical&fire=yellow&currStreakNum=yellow)](https://github.com/cephascard0207)
 
-
+</body>
 
