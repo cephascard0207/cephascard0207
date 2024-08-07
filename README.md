@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Cephas Cardozo 👨‍💻</h1>
+<h1 align='center'> Hi there 👋🏻, I'm Cephas Cardozo 🧑🏻‍💻</h1>
 
 
 - I'm *Cephas Cardozo* ! :smiley: <br>
