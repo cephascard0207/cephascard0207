@@ -7,7 +7,7 @@
 - If you like my projects, please star! 🌟🙏 <br>
 - Feel Free For Asking Questions 💪 <br>
 
-![](https://komarev.com/ghpvc/?username=cephascard0207)
+![](https://komarev.com/ghpvc/?username=cephascard0207&style=flat-square)
 
   <!--<img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%23e34f26.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
