@@ -16,7 +16,8 @@
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=white)
   -->
-[![My Skills](https://skillicons.dev/icons?i=html,css,py,django,webflow,figma,js,git,github,mysql,postgres,bootstrap,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,django,webflow,figma,git,github,mysql,postgres,bootstrap,php)](https://skillicons.dev)
+<!--js-->
 
 <br>
 
