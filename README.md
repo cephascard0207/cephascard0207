@@ -2,7 +2,7 @@
 
 
 - I'm *Cephas Cardozo* ! :smiley: <br>
-- Founder @Rosary Digital | Aspiring Entrepreneur | Digital Marketer • Web Designer • Computer Programmer | Learning Community Development & Business Innovation🚀<br>
+- Developing @Rosary Digital | Aspiring Entrepreneur | Digital Marketer • Web Designer • Computer Programmer | Learning Community Development & Business Innovation🚀<br>
 
 - If you like my projects, please star! 🌟🙏 <br>
 - Feel Free For Asking Questions 💪 <br>
